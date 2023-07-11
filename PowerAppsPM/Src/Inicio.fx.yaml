@@ -2,36 +2,40 @@ Inicio As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
     Image4 As image:
-        Height: =406
+        Height: =421
         Image: ='51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview'
         Width: =640
-        ZIndex: =1
-
-    Rectangle1_1 As rectangle:
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =156
-        Width: =479
-        X: =82
-        Y: =690
         ZIndex: =2
 
-    Rectangle1_2 As rectangle:
+    Button4 As button:
+        Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =156
-        Width: =479
-        X: =80
-        Y: =366
+        Height: =139
+        OnSelect: =Navigate('Inicio de sesión',ScreenTransition.Fade)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =54
+        Text: ="Sing In"
+        Width: =402
+        X: =119
+        Y: =382
         ZIndex: =3
 
-    Label3 As label:
-        FontWeight: =FontWeight.Bold
-        Height: =90
-        OnSelect: |
-            =Navigate(Registro,ScreenTransition.Fade)
+    Button4_1 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =139
+        OnSelect: =Navigate(Registro,ScreenTransition.Fade)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
         Size: =54
-        Text: ="Sign up"
-        Width: =273
-        X: =181
-        Y: =723
+        Text: ="Sing Up"
+        Width: =402
+        X: =119
+        Y: =657
         ZIndex: =4
 

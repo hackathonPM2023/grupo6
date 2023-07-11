@@ -1,15 +1,6 @@
 Logo As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
-    Image2 As image:
-        Height: =795
-        Image: ='FOco-removebg-preview (1)'
-        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
-        Width: =608
-        X: =8
-        Y: =99
-        ZIndex: =2
-
     Label1 As label:
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.'Patrick Hand'
@@ -18,16 +9,16 @@ Logo As screen:
         Size: =70
         Text: ="DISCONNETED"
         Width: =524
-        X: =70
-        Y: =780
+        X: =72
+        Y: =854
         ZIndex: =4
 
-    Image3 As image:
-        Height: =660
-        Image: ='Foquito-removebg-preview'
-        OnSelect: |
-            =Navigate(Inicio,ScreenTransition.Fade)
-        Width: =608
-        Y: =166
+    Image2 As image:
+        Height: =560
+        Image: ='Captura de pantalla (6)'
+        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
+        Width: =520
+        X: =56
+        Y: =186
         ZIndex: =5
 

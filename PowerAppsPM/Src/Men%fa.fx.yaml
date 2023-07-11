@@ -1,3 +1,73 @@
 menú As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
+    Image7 As image:
+        Height: =246
+        Image: ='istockphoto-1149246206-612x612-removebg-preview'
+        Width: =243
+        X: =203
+        Y: =256
+        ZIndex: =1
+
+    Image9 As image:
+        Height: =152
+        Image: ='check-list-icon-260nw-1015144702-removebg-preview'
+        ImagePosition: =ImagePosition.Fill
+        Width: =156
+        X: =247
+        Y: =602
+        ZIndex: =3
+
+    Image10 As image:
+        Height: =143
+        Image: ='celular-removebg-preview_1'
+        Width: =122
+        X: =258
+        Y: =7
+        ZIndex: =4
+
+    Image11 As image:
+        Height: =156
+        Image: =emchufe
+        Width: =144
+        X: =259
+        Y: =871
+        ZIndex: =5
+
+    Button3 As button:
+        Height: =100
+        Size: =24
+        Text: ="My activity"
+        Width: =350
+        X: =150
+        Y: =156
+        ZIndex: =6
+
+    Button3_1 As button:
+        Height: =100
+        OnSelect: =Navigate('Focus time',ScreenTransition.Fade)
+        Size: =24
+        Text: ="Focus Time"
+        Width: =350
+        X: =150
+        Y: =455
+        ZIndex: =7
+
+    Button3_5 As button:
+        Height: =100
+        Size: =24
+        Text: ="Disconneted"
+        Width: =350
+        X: =150
+        Y: =1011
+        ZIndex: =8
+
+    Button3_6 As button:
+        Height: =100
+        Size: =24
+        Text: ="Recomendaciones"
+        Width: =350
+        X: =150
+        Y: =755
+        ZIndex: =9
+
