@@ -84,3 +84,18 @@
         Y: =664
         ZIndex: =11
 
+    Button5 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =166
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =60
+        Text: ="Start"
+        Width: =383
+        X: =118
+        Y: =903
+        ZIndex: =12
+
