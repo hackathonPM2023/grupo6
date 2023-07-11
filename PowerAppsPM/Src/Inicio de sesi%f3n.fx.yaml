@@ -3,7 +3,12 @@
 
     TextInput2 As text:
         Default: ="Username/Email Address"
+        FontWeight: =FontWeight.Bold
         Height: =116
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
         Size: =30
         Width: =560
         X: =48
@@ -14,13 +19,18 @@
         Height: =320
         Image: ='Captura de pantalla (6)'
         Width: =320
-        X: =146
+        X: =169
         Y: =36
         ZIndex: =2
 
     TextInput4 As text:
         Default: ="Password"
+        FontWeight: =FontWeight.Bold
         Height: =111
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
         Size: =30
         Width: =562
         X: =48
@@ -38,12 +48,19 @@
         Y: =774
         ZIndex: =4
 
-    Label6 As label:
-        Height: =70
-        Size: =21
-        Text: ="Texto"
-        Width: =560
-        X: =40
-        Y: =40
-        ZIndex: =5
+    Button2 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =103
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =30
+        Text: ="Sing In"
+        Width: =353
+        X: =151
+        Y: =926
+        ZIndex: =7
 
