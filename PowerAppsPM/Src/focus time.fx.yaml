@@ -84,18 +84,3 @@
         Y: =664
         ZIndex: =11
 
-    Button2 As button:
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =146
-        RadiusBottomLeft: =100
-        RadiusBottomRight: =100
-        RadiusTopLeft: =100
-        RadiusTopRight: =100
-        Size: =40
-        Text: ="Inicio"
-        Width: =393
-        X: =113
-        Y: =912
-        ZIndex: =12
-

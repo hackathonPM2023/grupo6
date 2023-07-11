@@ -4,6 +4,7 @@ Cargando As screen:
     Image3_1 As image:
         Height: =499
         Image: ='Foquito-removebg-preview'
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
         Width: =464
         X: =73
         Y: =210
@@ -12,9 +13,9 @@ Cargando As screen:
     Image2_1 As image:
         Height: =499
         Image: ='FOco-removebg-preview (1)'
-        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
         Width: =464
-        X: =73
+        X: =80
         Y: =210
         ZIndex: =3
 
