@@ -1,0 +1,59 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Image2": 6,
+    "Screen1": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:22:11",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "istockphoto-1411054164-612x612": "a4891004-0775-4a7e-a6f4-b5665e97a97d.jpg",
+    "istockphoto-1411054164-612x612-removebg-preview": "7ff79ace-64e3-4c6a-9bc6-860555c693d4.png"
+  },
+  "LocalResourceRootPaths": {
+    "istockphoto-1411054164-612x612": "https://docserverpwaprodeus.blob.core.windows.net/73fa6601-0a38-43d2-875c-df53e180ddae-1/resource/d49bfeb2-793e-4f31-b4fd-039e7d28379c.jpg?sv=2018-03-28&sr=b&sig=z8H8N2Mb34tXfiLStyfaBeDj339DhYImix9gAKMKPZE%3D&spr=https&se=2023-07-12T19%3A06%3A39Z&sp=r",
+    "istockphoto-1411054164-612x612-removebg-preview": "https://docserverpwaprodeus.blob.core.windows.net/73fa6601-0a38-43d2-875c-df53e180ddae-1/resource/6357b3e5-d642-43a3-a049-9da2d4f38808.png?sv=2018-03-28&sr=b&sig=SqFB7RPfIzveg%2BORym%2F3HjBPqenLQddZ680IEm%2BXajI%3D&spr=https&se=2023-07-12T19%3A08%3A26Z&sp=r"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Image2": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Image2": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-istockphoto-1411054164-612x612": 1,
+    "Image-istockphoto-1411054164-612x612-removebg-preview": 2,
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0215445,
+    "ControlCount": {}
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
