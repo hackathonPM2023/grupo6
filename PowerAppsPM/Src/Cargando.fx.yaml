@@ -1,3 +1,13 @@
 Cargando As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
+    Label2 As label:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Height: =136
+        Size: =70
+        Text: ="Loading..."
+        Width: =463
+        X: =100
+        Y: =644
+        ZIndex: =1
+
