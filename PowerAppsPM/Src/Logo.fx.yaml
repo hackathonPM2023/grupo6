@@ -1,3 +1,20 @@
 Logo As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
+    Image2 As image:
+        Height: =735
+        Image: ='FOco-removebg-preview (1)'
+        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
+        Width: =640
+        Y: =160
+        ZIndex: =2
+
+    Image4 As image:
+        Height: =649
+        Image: ='Foquito-removebg-preview'
+        OnSelect: |
+            =Navigate(Inicio,ScreenTransition.Fade)
+        Width: =640
+        Y: =203
+        ZIndex: =3
+
