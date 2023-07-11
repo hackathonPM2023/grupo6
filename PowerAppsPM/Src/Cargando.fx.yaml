@@ -3,11 +3,31 @@ Cargando As screen:
 
     Label2 As label:
         BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
         Height: =136
         Size: =70
         Text: ="Loading..."
         Width: =463
-        X: =100
-        Y: =644
+        X: =116
+        Y: =666
         ZIndex: =1
+
+    Image3_1 As image:
+        Height: =499
+        Image: ='Foquito-removebg-preview'
+        Width: =464
+        X: =73
+        Y: =210
+        ZIndex: =2
+
+    Image2_1 As image:
+        Height: =499
+        Image: ='FOco-removebg-preview (1)'
+        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
+        Width: =464
+        X: =73
+        Y: =210
+        ZIndex: =3
 
