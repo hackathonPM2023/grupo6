@@ -1,3 +1,32 @@
 Cargando As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
+    Image3_1 As image:
+        Height: =499
+        Image: ='Foquito-removebg-preview'
+        Width: =464
+        X: =73
+        Y: =210
+        ZIndex: =2
+
+    Image2_1 As image:
+        Height: =499
+        Image: ='FOco-removebg-preview (1)'
+        OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
+        Width: =464
+        X: =73
+        Y: =210
+        ZIndex: =3
+
+    Label4 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Semibold
+        Height: =130
+        Size: =75
+        Text: ="Loading..."
+        Width: =450
+        X: =80
+        Y: =672
+        ZIndex: =4
+

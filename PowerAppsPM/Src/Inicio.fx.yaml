@@ -35,16 +35,3 @@ Inicio As screen:
         Y: =723
         ZIndex: =4
 
-    Label2 As label:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        FontWeight: =FontWeight.Bold
-        Height: =102
-        OnSelect: |
-            =Navigate('Inicio de sesión',ScreenTransition.Fade)
-        Size: =54
-        Text: ="Sign In"
-        Width: =269
-        X: =187
-        Y: =381
-        ZIndex: =5
-

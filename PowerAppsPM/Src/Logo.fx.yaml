@@ -15,9 +15,9 @@ Logo As screen:
         Font: =Font.'Patrick Hand'
         FontWeight: =FontWeight.Bold
         Height: =131
-        Size: =55
+        Size: =70
         Text: ="DISCONNETED"
-        Width: =415
+        Width: =524
         X: =122
         Y: =862
         ZIndex: =4
@@ -28,7 +28,6 @@ Logo As screen:
         OnSelect: |
             =Navigate(Inicio,ScreenTransition.Fade)
         Width: =608
-        X: =8
         Y: =166
         ZIndex: =5
 
