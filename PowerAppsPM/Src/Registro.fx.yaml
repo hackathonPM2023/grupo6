@@ -35,7 +35,7 @@ Registro As screen:
         ZIndex: =2
 
     Image1 As image:
-        Height: =1578
+        Height: =1650
         Image: ='istockphoto-1049778530-170667a-removebg-preview'
         RadiusBottomLeft: =70
         RadiusBottomRight: =70

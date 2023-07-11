@@ -12,11 +12,18 @@ Logo As screen:
 
     Label1 As label:
         Font: =Font.'Lato Light'
-        Height: =108
-        Size: =40
+        Height: =131
+        Size: =70
         Text: ="Disconneted"
-        Width: =316
-        X: =182
-        Y: =894
+        Width: =524
+        X: =50
+        Y: =826
         ZIndex: =4
+
+    Image3 As image:
+        Height: =660
+        Image: ='Foquito-removebg-preview'
+        Width: =608
+        Y: =166
+        ZIndex: =5
 
