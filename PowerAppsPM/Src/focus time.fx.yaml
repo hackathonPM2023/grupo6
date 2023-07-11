@@ -8,34 +8,34 @@
         Height: =123
         Image: ='celular-removebg-preview'
         Width: =142
-        X: =250
-        Y: =11
+        X: =240
+        Y: =16
         ZIndex: =1
 
     Button2 As button:
-        Height: =70
+        Height: =85
         Size: =24
         Text: ="Mi Actividad"
-        Width: =280
-        X: =181
-        Y: =159
+        Width: =271
+        X: =191
+        Y: =166
         ZIndex: =2
 
     Image4 As image:
         Height: =260
         Image: ='istockphoto-1149246206-612x612-removebg-preview'
         Width: =250
-        X: =196
-        Y: =201
+        X: =190
+        Y: =236
         ZIndex: =3
 
     Button3 As button:
-        Height: =70
+        Height: =102
         Size: =24
         Text: ="Focus Time"
-        Width: =280
-        X: =181
-        Y: =417
+        Width: =299
+        X: =175
+        Y: =443
         ZIndex: =4
 
     Image5 As image:
@@ -43,24 +43,33 @@
         Image: ='check-list-icon-260nw-1015144702-removebg-preview'
         ImagePosition: =ImagePosition.Fill
         Width: =153
-        X: =239
-        Y: =517
+        X: =249
+        Y: =582
         ZIndex: =5
 
     Button4 As button:
-        Height: =63
+        Height: =102
         Size: =24
         Text: ="Recomendaciones"
-        Width: =300
-        X: =170
-        Y: =655
+        Width: =351
+        X: =145
+        Y: =711
         ZIndex: =6
 
     Image6 As image:
-        Height: =320
+        Height: =174
         Image: ='images-removebg-preview'
-        Width: =320
-        X: =170
-        Y: =736
+        Width: =162
+        X: =240
+        Y: =798
         ZIndex: =7
+
+    Button5 As button:
+        Height: =103
+        Size: =24
+        Text: ="Disconneted"
+        Width: =330
+        X: =156
+        Y: =964
+        ZIndex: =8
 
