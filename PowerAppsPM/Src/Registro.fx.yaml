@@ -2,6 +2,7 @@ Registro As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
     TextInput1 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="Username"
         DisabledBorderColor: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(0, 0, 0, 1)
@@ -20,6 +21,7 @@ Registro As screen:
         ZIndex: =1
 
     TextInput3 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="Date of birth"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
@@ -45,6 +47,7 @@ Registro As screen:
         ZIndex: =3
 
     TextInput3_1 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="E-mail"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
@@ -60,6 +63,7 @@ Registro As screen:
         ZIndex: =4
 
     TextInput3_2 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="Password"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
@@ -75,6 +79,7 @@ Registro As screen:
         ZIndex: =5
 
     Button1 As button:
+        BorderColor: =ColorFade(Color.GhostWhite, -15%)
         Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Font: =Font.'Lato Light'
