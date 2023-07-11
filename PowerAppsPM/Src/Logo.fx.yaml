@@ -12,12 +12,12 @@ Logo As screen:
 
     Label1 As label:
         Font: =Font.'Lato Light'
-        Height: =108
-        Size: =50
+        Height: =131
+        Size: =55
         Text: ="Disconneted"
-        Width: =379
-        X: =142
-        Y: =894
+        Width: =415
+        X: =116
+        Y: =866
         ZIndex: =4
 
     Image3 As image:

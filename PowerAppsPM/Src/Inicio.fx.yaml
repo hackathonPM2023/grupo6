@@ -7,3 +7,44 @@ Inicio As screen:
         Width: =640
         ZIndex: =1
 
+    Rectangle1_1 As rectangle:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =156
+        Width: =479
+        X: =82
+        Y: =690
+        ZIndex: =2
+
+    Rectangle1_2 As rectangle:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =156
+        Width: =479
+        X: =80
+        Y: =366
+        ZIndex: =3
+
+    Label3 As label:
+        FontWeight: =FontWeight.Bold
+        Height: =90
+        OnSelect: |
+            =Navigate(Registro,ScreenTransition.Fade)
+        Size: =54
+        Text: ="Sign up"
+        Width: =273
+        X: =181
+        Y: =723
+        ZIndex: =4
+
+    Label2 As label:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =102
+        OnSelect: |
+            =Navigate('Inicio de sesión',ScreenTransition.Fade)
+        Size: =54
+        Text: ="Sign In"
+        Width: =269
+        X: =187
+        Y: =381
+        ZIndex: =5
+
