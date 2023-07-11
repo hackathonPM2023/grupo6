@@ -11,18 +11,22 @@ Logo As screen:
         ZIndex: =2
 
     Label1 As label:
-        Font: =Font.'Lato Light'
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Patrick Hand'
+        FontWeight: =FontWeight.Bold
         Height: =131
         Size: =70
-        Text: ="Disconneted"
+        Text: ="DISCONNETED"
         Width: =524
-        X: =50
-        Y: =826
+        X: =122
+        Y: =862
         ZIndex: =4
 
     Image3 As image:
         Height: =660
         Image: ='Foquito-removebg-preview'
+        OnSelect: |
+            =Navigate(Inicio,ScreenTransition.Fade)
         Width: =608
         Y: =166
         ZIndex: =5

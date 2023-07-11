@@ -1,39 +1,6 @@
 Registro As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
-    TextInput1 As text:
-        Default: ="Username"
-        DisabledBorderColor: =RGBA(0, 0, 0, 1)
-        DisabledColor: =RGBA(0, 0, 0, 1)
-        Font: =Font.'Lato Light'
-        FontWeight: =FontWeight.Semibold
-        Height: =99
-        HoverBorderColor: =RGBA(0, 0, 0, 1)
-        RadiusBottomLeft: =30
-        RadiusBottomRight: =30
-        RadiusTopLeft: =30
-        RadiusTopRight: =30
-        Size: =35
-        Width: =526
-        X: =50
-        Y: =116
-        ZIndex: =1
-
-    TextInput3 As text:
-        Default: ="Date of birth"
-        Font: =Font.'Lato Light'
-        FontWeight: =FontWeight.Semibold
-        Height: =99
-        RadiusBottomLeft: =30
-        RadiusBottomRight: =30
-        RadiusTopLeft: =30
-        RadiusTopRight: =30
-        Size: =35
-        Width: =526
-        X: =50
-        Y: =293
-        ZIndex: =2
-
     Image1 As image:
         Height: =1650
         Image: ='istockphoto-1049778530-170667a-removebg-preview'
@@ -45,6 +12,7 @@ Registro As screen:
         ZIndex: =3
 
     TextInput3_1 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="E-mail"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
@@ -60,6 +28,7 @@ Registro As screen:
         ZIndex: =4
 
     TextInput3_2 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
         Default: ="Password"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
@@ -75,10 +44,12 @@ Registro As screen:
         ZIndex: =5
 
     Button1 As button:
+        BorderColor: =ColorFade(Color.GhostWhite, -15%)
         Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Font: =Font.'Lato Light'
         Height: =109
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
         RadiusBottomLeft: =30
         RadiusBottomRight: =30
         RadiusTopLeft: =30
@@ -89,4 +60,36 @@ Registro As screen:
         X: =118
         Y: =846
         ZIndex: =6
+
+    TextInput3_3 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: ="Date of birth"
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =293
+        ZIndex: =7
+
+    TextInput3_4 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: ="Username"
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =104
+        ZIndex: =8
 
