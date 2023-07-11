@@ -35,14 +35,13 @@ Registro As screen:
         ZIndex: =2
 
     Image1 As image:
-        Height: =476
+        Height: =1578
         Image: ='istockphoto-1049778530-170667a-removebg-preview'
         RadiusBottomLeft: =70
         RadiusBottomRight: =70
         RadiusTopLeft: =70
         RadiusTopRight: =70
-        Width: =533
-        Y: =660
+        Width: =1100
         ZIndex: =3
 
     TextInput3_1 As text:

@@ -10,16 +10,6 @@ Logo As screen:
         Y: =99
         ZIndex: =2
 
-    Image4 As image:
-        Height: =631
-        Image: ='Foquito-removebg-preview'
-        OnSelect: |
-            =Navigate(Inicio,ScreenTransition.Fade)
-        Width: =622
-        X: =8
-        Y: =177
-        ZIndex: =3
-
     Label1 As label:
         Font: =Font.'Lato Light'
         Height: =108
