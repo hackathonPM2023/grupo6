@@ -24,6 +24,7 @@ Cargando As screen:
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Semibold
         Height: =130
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
         Size: =75
         Text: ="Loading..."
         Width: =450
