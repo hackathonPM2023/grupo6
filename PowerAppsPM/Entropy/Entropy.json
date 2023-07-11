@@ -1,29 +1,14 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "focus time": 4,
-    "Host": 3,
-    "Inicio": 5,
-    "Logo": 6,
-    "Menú": 7,
-    "Registro": 8
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:41:41",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "istockphoto-1411054164-612x612": "0002.jpg",
-    "istockphoto-1411054164-612x612-removebg-preview": "0001.png"
-  },
-  "LocalResourceRootPaths": {
-    "istockphoto-1411054164-612x612": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=zQuGplTvHezFzLMPYvLs%2BjqLfSDE8OoP8dymHXjzPq8%3D&spr=https&se=2023-07-12T19%3A56%3A07Z&sp=r",
-    "istockphoto-1411054164-612x612-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=QfS85f8KMxNOLSoeFEWmxYtljP%2FrzFrR6bN52uAzJZU%3D&spr=https&se=2023-07-12T19%3A56%3A07Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -31,39 +16,11 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "focus time": {},
-    "Host": {},
-    "Inicio": {},
-    "Logo": {},
-    "Menú": {},
-    "Registro": {}
-  },
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "focus time": 3,
-    "Host": 0,
-    "Inicio": 4,
-    "Logo": 5,
-    "Menú": 6,
-    "Registro": 7
-  },
-  "ResourcesJsonIndices": {
-    "Image-istockphoto-1411054164-612x612": 2,
-    "Image-istockphoto-1411054164-612x612-removebg-preview": 1,
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0076735,
-    "ControlCount": {
-      "screen": 5
-    },
-    "DeserializationLoadTime": 0.1785862
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
