@@ -37,7 +37,7 @@ menú As screen:
     Button3 As button:
         Height: =100
         Size: =24
-        Text: ="Mi Actividad"
+        Text: ="My activity"
         Width: =350
         X: =150
         Y: =156
