@@ -21,14 +21,6 @@
         Y: =152
         ZIndex: =2
 
-    Image4 As image:
-        Height: =260
-        Image: ='istockphoto-1149246206-612x612-removebg-preview'
-        Width: =250
-        X: =190
-        Y: =236
-        ZIndex: =3
-
     Button3 As button:
         Height: =120
         Size: =24
