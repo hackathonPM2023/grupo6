@@ -132,8 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Screen2",
-    "Registro",
-    "Inicio"
+    "Inicio",
+    "Registro"
   ]
 }

@@ -1,14 +1,27 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Inicio": 4,
+    "Logo": 5,
+    "Registro": 6
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:41:01",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "istockphoto-1411054164-612x612": "0002.jpg",
+    "istockphoto-1411054164-612x612-removebg-preview": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "istockphoto-1411054164-612x612": "https://docserverpwaprodwus.blob.core.windows.net/8da3015f-bcb6-4905-b08f-55b24d3431ad-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=Ee0pl2FkyvLBwGljXKActEBmy5ps%2Fl18HhJ6CykYNpM%3D&spr=https&se=2023-07-12T19%3A55%3A40Z&sp=r",
+    "istockphoto-1411054164-612x612-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/8da3015f-bcb6-4905-b08f-55b24d3431ad-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=1ictymocZhZsLBisPgfBKKJWe2ReZIQPV6Hy33AXSVI%3D&spr=https&se=2023-07-12T19%3A55%3A40Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -16,11 +29,35 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Inicio": {},
+    "Logo": {},
+    "Registro": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Inicio": 3,
+    "Logo": 4,
+    "Registro": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-istockphoto-1411054164-612x612": 2,
+    "Image-istockphoto-1411054164-612x612-removebg-preview": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0053344,
+    "ControlCount": {
+      "screen": 3
+    },
+    "DeserializationLoadTime": 0.3461082
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
