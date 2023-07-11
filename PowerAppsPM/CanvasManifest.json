@@ -133,10 +133,10 @@
   "ScreenOrder": [
     "Logo",
     "Inicio",
+    "Inicio de sesión",
     "Registro",
-    "Cargando",
-    "Menú",
-    "focus time",
-    "Inicio de sesión"
+    "menú",
+    "Focus time",
+    "Cargando"
   ]
 }
