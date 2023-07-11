@@ -5,11 +5,12 @@
     "App": 1,
     "Host": 3,
     "Image2": 6,
-    "Screen1": 4
+    "Logo": 4,
+    "Screen2": 7
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:23:22",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:37:25",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -34,7 +35,8 @@
     "App": {},
     "Host": {},
     "Image2": {},
-    "Screen1": {}
+    "Logo": {},
+    "Screen2": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -42,7 +44,8 @@
     "App": 0,
     "Host": 0,
     "Image2": 0,
-    "Screen1": 0
+    "Logo": 0,
+    "Screen2": 0
   },
   "ResourcesJsonIndices": {
     "Image-istockphoto-1411054164-612x612": 1,

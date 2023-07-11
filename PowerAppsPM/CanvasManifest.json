@@ -131,6 +131,7 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Logo",
+    "Screen2"
   ]
 }
