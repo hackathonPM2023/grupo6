@@ -53,6 +53,7 @@
         Fill: =RGBA(255, 255, 255, 1)
         FontWeight: =FontWeight.Bold
         Height: =103
+        OnSelect: =Navigate(Cargando,ScreenTransition.Fade)
         RadiusBottomLeft: =30
         RadiusBottomRight: =30
         RadiusTopLeft: =30
