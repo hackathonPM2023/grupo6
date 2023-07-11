@@ -48,7 +48,7 @@
         RadiusTopLeft: =1500
         RadiusTopRight: =1500
         Size: =24
-        Text: ="Botón"
+        Text: ="Timer"
         Width: =191
         X: =433
         Y: =664
@@ -63,7 +63,7 @@
         RadiusTopLeft: =1500
         RadiusTopRight: =1500
         Size: =24
-        Text: ="Botón"
+        Text: ="Alarm"
         Width: =191
         X: =224
         Y: =664
@@ -78,7 +78,7 @@
         RadiusTopLeft: =1500
         RadiusTopRight: =1500
         Size: =20
-        Text: ="Cronometro"
+        Text: ="chronometer"
         Width: =191
         X: =12
         Y: =664
