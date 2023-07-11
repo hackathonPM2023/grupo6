@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Registro": {
+    "Menú": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Registro",
+      "Name": "Menú",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -69,5 +69,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Registro"
+  "TopParentName": "Menú"
 }
