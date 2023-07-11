@@ -2,7 +2,7 @@ Registro As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
     TextInput1 As text:
-        Default: ="Entrada de texto"
+        Default: ="Username"
         DisabledBorderColor: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(0, 0, 0, 1)
         Font: =Font.'Lato Light'
