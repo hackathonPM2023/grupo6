@@ -65,7 +65,7 @@ menú As screen:
     Button3_6 As button:
         Height: =100
         Size: =24
-        Text: ="Recomendaciones"
+        Text: ="recommendations"
         Width: =350
         X: =150
         Y: =755
