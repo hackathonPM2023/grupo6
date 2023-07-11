@@ -18,3 +18,15 @@ Cargando As screen:
         Y: =210
         ZIndex: =3
 
+    Label4 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Semibold
+        Height: =130
+        Size: =75
+        Text: ="Loading..."
+        Width: =450
+        X: =80
+        Y: =672
+        ZIndex: =4
+
