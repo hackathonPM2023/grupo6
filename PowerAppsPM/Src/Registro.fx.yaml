@@ -20,7 +20,7 @@ Registro As screen:
         ZIndex: =1
 
     TextInput3 As text:
-        Default: ="Entrada de texto"
+        Default: ="Date of birth"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =99
@@ -35,18 +35,18 @@ Registro As screen:
         ZIndex: =2
 
     Image1 As image:
-        Height: =843
+        Height: =476
         Image: ='istockphoto-1049778530-170667a-removebg-preview'
         RadiusBottomLeft: =70
         RadiusBottomRight: =70
         RadiusTopLeft: =70
         RadiusTopRight: =70
-        Width: =640
-        Y: =293
+        Width: =533
+        Y: =660
         ZIndex: =3
 
     TextInput3_1 As text:
-        Default: ="Entrada de texto"
+        Default: ="E-mail"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =99
@@ -61,7 +61,7 @@ Registro As screen:
         ZIndex: =4
 
     TextInput3_2 As text:
-        Default: ="Entrada de texto"
+        Default: ="Password"
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =99
