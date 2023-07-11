@@ -78,7 +78,7 @@
         RadiusTopLeft: =1500
         RadiusTopRight: =1500
         Size: =20
-        Text: ="chronometer"
+        Text: ="Chronometer"
         Width: =191
         X: =12
         Y: =664
