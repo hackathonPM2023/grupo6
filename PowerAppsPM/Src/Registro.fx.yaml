@@ -1,3 +1,92 @@
 Registro As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
+    TextInput1 As text:
+        Default: ="Entrada de texto"
+        DisabledBorderColor: =RGBA(0, 0, 0, 1)
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        HoverBorderColor: =RGBA(0, 0, 0, 1)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =116
+        ZIndex: =1
+
+    TextInput3 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =293
+        ZIndex: =2
+
+    Image1 As image:
+        Height: =1136
+        Image: ='istockphoto-1049778530-170667a-removebg-preview'
+        RadiusBottomLeft: =70
+        RadiusBottomRight: =70
+        RadiusTopLeft: =70
+        RadiusTopRight: =70
+        Width: =1000
+        ZIndex: =3
+
+    TextInput3_1 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =471
+        ZIndex: =4
+
+    TextInput3_2 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =99
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =35
+        Width: =526
+        X: =50
+        Y: =632
+        ZIndex: =5
+
+    Button1 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Light'
+        Height: =109
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =45
+        Text: ="Register"
+        Width: =390
+        X: =118
+        Y: =846
+        ZIndex: =6
+
