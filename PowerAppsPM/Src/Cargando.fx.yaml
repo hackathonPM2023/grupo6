@@ -1,19 +1,6 @@
 Cargando As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
-    Label2 As label:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        FontWeight: =FontWeight.Semibold
-        Height: =136
-        Size: =70
-        Text: ="Loading..."
-        Width: =463
-        X: =116
-        Y: =666
-        ZIndex: =1
-
     Image3_1 As image:
         Height: =499
         Image: ='Foquito-removebg-preview'
