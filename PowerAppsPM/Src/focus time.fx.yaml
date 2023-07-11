@@ -1,3 +1,78 @@
 "'Focus time' As screen":
     Fill: =RGBA(0, 121, 187, 1)
 
+    Circle1 As circle:
+        BorderColor: =RGBA(212, 200, 34, 1)
+        BorderThickness: =13
+        Fill: =RGBA(204, 231, 246, 1)
+        Height: =293
+        Width: =299
+        X: =160
+        Y: =34
+        ZIndex: =1
+
+    Image5 As image:
+        Height: =252
+        Image: ='casa-vector-ilustracion-casa-vector-arte_921448-1866-removebg-preview'
+        Width: =279
+        X: =170
+        Y: =54
+        ZIndex: =2
+
+    Rectangle1 As rectangle:
+        Fill: =RGBA(102, 182, 227, 1)
+        Height: =235
+        Width: =640
+        Y: =414
+        ZIndex: =3
+
+    Label2 As label:
+        Font: =Font.'Lato Black'
+        Height: =235
+        Size: =120
+        Text: |-
+            ="20:00"
+        Width: =449
+        X: =85
+        Y: =414
+        ZIndex: =4
+
+    Button3_2 As button:
+        Height: =184
+        RadiusBottomLeft: =1500
+        RadiusBottomRight: =1500
+        RadiusTopLeft: =1500
+        RadiusTopRight: =1500
+        Size: =24
+        Text: ="Botón"
+        Width: =191
+        X: =433
+        Y: =664
+        ZIndex: =9
+
+    Button3_3 As button:
+        Height: =184
+        RadiusBottomLeft: =1500
+        RadiusBottomRight: =1500
+        RadiusTopLeft: =1500
+        RadiusTopRight: =1500
+        Size: =24
+        Text: ="Botón"
+        Width: =191
+        X: =224
+        Y: =664
+        ZIndex: =10
+
+    Button3_4 As button:
+        Height: =184
+        RadiusBottomLeft: =1500
+        RadiusBottomRight: =1500
+        RadiusTopLeft: =1500
+        RadiusTopRight: =1500
+        Size: =24
+        Text: ="Botón"
+        Width: =191
+        X: =12
+        Y: =664
+        ZIndex: =11
+
