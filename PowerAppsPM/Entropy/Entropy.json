@@ -1,26 +1,83 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "focus time": 4,
+    "Host": 3,
+    "Image2": 11,
+    "Inicio": 6,
+    "Inicio de sesión": 5,
+    "Logo": 7,
+    "Menú": 8,
+    "Registro": 9
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:52:20",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview": "6278f6a3-943c-41a9-a293-d9f287f96ed7.png",
+    "descarga": "388a6045-c583-4c10-9a9d-a01fe6c60074.png",
+    "istockphoto-1411054164-612x612": "0002.jpg",
+    "istockphoto-1411054164-612x612-removebg-preview": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/85b02b3e-84d7-4295-b890-6b1506afcce4.png?sv=2018-03-28&sr=b&sig=BlHuiK%2Fy8T09quYLKkCkq0lLz1frqTk%2BP9HfBHCoT5A%3D&spr=https&se=2023-07-12T20%3A03%3A57Z&sp=r",
+    "descarga": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/1ec9a88b-ca6f-4526-bc83-38dfdcc00a0c.png?sv=2018-03-28&sr=b&sig=kNEfs%2BFQS4ZVJCBv%2FnizN3FuVANIqxSWaLIZ9nshuu4%3D&spr=https&se=2023-07-12T20%3A01%3A16Z&sp=r",
+    "istockphoto-1411054164-612x612": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=uh3ns%2Boc%2FSil3nWtf77v0tY0rq9DPkRLLJsIFRZHbhg%3D&spr=https&se=2023-07-12T19%3A57%3A10Z&sp=r",
+    "istockphoto-1411054164-612x612-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/06dbae1c-f9f4-48c6-ae01-d545255c5683-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=m5kxXgptsqBx%2Fdn6Vfq8TovMLWlBhl46xqnbc8TIP3M%3D&spr=https&se=2023-07-12T19%3A57%3A10Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "focus time": {},
+    "Host": {},
+    "Image2": {},
+    "Inicio": {},
+    "Inicio de sesión": {},
+    "Logo": {},
+    "Menú": {},
+    "Registro": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "focus time": 3,
+    "Host": 0,
+    "Image2": 0,
+    "Inicio": 5,
+    "Inicio de sesión": 4,
+    "Logo": 6,
+    "Menú": 7,
+    "Registro": 8
+  },
+  "ResourcesJsonIndices": {
+    "Image-51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview": 4,
+    "Image-descarga": 3,
+    "Image-istockphoto-1411054164-612x612": 2,
+    "Image-istockphoto-1411054164-612x612-removebg-preview": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0071218,
+    "ControlCount": {
+      "screen": 6
+    },
+    "DeserializationLoadTime": 0.1543642
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

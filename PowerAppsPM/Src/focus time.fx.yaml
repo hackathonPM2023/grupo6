@@ -1,2 +1,11 @@
 "'focus time' As screen":
+    Fill: =RGBA(0, 16, 96, 1)
+
+    Image2 As image:
+        Height: =486
+        Image: ='51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview'
+        ImagePosition: =ImagePosition.Fill
+        Width: =640
+        X: =
+        ZIndex: =1
 
