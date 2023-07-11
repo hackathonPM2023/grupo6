@@ -18,8 +18,8 @@ Logo As screen:
         Size: =70
         Text: ="DISCONNETED"
         Width: =524
-        X: =122
-        Y: =862
+        X: =70
+        Y: =780
         ZIndex: =4
 
     Image3 As image:
