@@ -113,7 +113,7 @@
     "Id": "a98b978e-4077-4fa5-8d84-06056699abce",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Disconneted",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
