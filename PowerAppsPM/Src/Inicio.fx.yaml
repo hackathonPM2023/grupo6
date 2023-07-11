@@ -2,10 +2,8 @@ Inicio As screen:
     Fill: =RGBA(0, 16, 96, 1)
 
     Image4 As image:
-        Height: =320
+        Height: =406
         Image: ='51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview'
-        Width: =320
-        X: =100
-        Y: =80
+        Width: =640
         ZIndex: =1
 

@@ -234,11 +234,131 @@
               "message": {
                 "text": "Error al ejecutar la regla app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
             }
           ]
         }
       ],
       "results": [
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Logo.Image4.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Logo.Image4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Logo",
+                "type": "Logo.Image4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Logo.Image4.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Logo.Image4.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Logo",
+                "type": "Logo.Image4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
         {
           "locations": [
             {
@@ -424,17 +544,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.celular-removebg-preview"
+                  "fullyQualifiedName": "App.51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.celular-removebg-preview",
+                  "fullyQualifiedName": "App.51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "celular-removebg-preview",
+                "member": "51376640-colgar-las-bombillas-con-una-resplandeciente-sobre-un-fondo-amarillo-copia-espacio-ilustración-removebg-preview",
                 "module": "App",
                 "type": "App"
               }
@@ -465,36 +585,6 @@
               },
               "properties": {
                 "member": "celular",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.check-list-icon-260nw-1015144702-removebg-preview"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.check-list-icon-260nw-1015144702-removebg-preview",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "check-list-icon-260nw-1015144702-removebg-preview",
                 "module": "App",
                 "type": "App"
               }
@@ -604,36 +694,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.descarga__1_-removebg-preview_1"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.descarga__1_-removebg-preview_1",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "descarga__1_-removebg-preview_1",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "App.FOco"
                 }
               ],
@@ -664,36 +724,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.Foquito-removebg-preview"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.Foquito-removebg-preview",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Foquito-removebg-preview",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "App.Foquito"
                 }
               ],
@@ -705,36 +735,6 @@
               },
               "properties": {
                 "member": "Foquito",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.images-removebg-preview"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.images-removebg-preview",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "images-removebg-preview",
                 "module": "App",
                 "type": "App"
               }
