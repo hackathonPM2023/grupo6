@@ -1,14 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Inicio": 5,
+    "Logo": 4
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:37:52",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "istockphoto-1411054164-612x612": "0002.jpg",
+    "istockphoto-1411054164-612x612-removebg-preview": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "istockphoto-1411054164-612x612": "https://docserverpwaprodeus.blob.core.windows.net/73fa6601-0a38-43d2-875c-df53e180ddae-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=cAcSOrNoPPc8XqFVIvnvlvT8Uf6%2BmcOJ0BNJkSbqZA8%3D&spr=https&se=2023-07-12T19%3A52%3A27Z&sp=r",
+    "istockphoto-1411054164-612x612-removebg-preview": "https://docserverpwaprodeus.blob.core.windows.net/73fa6601-0a38-43d2-875c-df53e180ddae-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=sGiCcx5o55IY%2BbnCw1lAOKGzC8j9PERCgp%2Fyou%2B9c0g%3D&spr=https&se=2023-07-12T19%3A52%3A27Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -16,11 +28,33 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Inicio": {},
+    "Logo": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Inicio": 4,
+    "Logo": 3
+  },
+  "ResourcesJsonIndices": {
+    "Image-istockphoto-1411054164-612x612": 2,
+    "Image-istockphoto-1411054164-612x612-removebg-preview": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0046756,
+    "ControlCount": {
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.4093524
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
