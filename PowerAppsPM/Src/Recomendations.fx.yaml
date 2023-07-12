@@ -1,0 +1,155 @@
+Recomendations As screen:
+    Fill: =RGBA(136, 160, 209, 1)
+
+    Dropdown2 As dropdown:
+        Default: ="9"
+        Height: =113
+        Items: =DropDownSample
+        Size: =21
+        Width: =575
+        X: =40
+        Y: =216
+        ZIndex: =2
+
+    Dropdown3 As dropdown:
+        Height: =113
+        Items: =DropDownSample
+        Size: =21
+        Width: =575
+        X: =40
+        Y: =377
+        ZIndex: =3
+
+    Dropdown4 As dropdown:
+        Height: =113
+        Items: =DropDownSample
+        Size: =21
+        Width: =575
+        X: =40
+        Y: =542
+        ZIndex: =4
+
+    Dropdown5 As dropdown:
+        Height: =113
+        Items: =DropDownSample
+        Size: =21
+        Width: =575
+        X: =40
+        Y: =719
+        ZIndex: =5
+
+    Dropdown6 As dropdown:
+        Height: =113
+        Items: =DropDownSample
+        Size: =21
+        Width: =575
+        X: =40
+        Y: =882
+        ZIndex: =6
+
+    TextInput3 As text:
+        Align: =Align.Center
+        Default: ="RECOMENDATIONS"
+        Height: =70
+        Size: =27
+        Width: =575
+        X: =47
+        Y: =97
+        ZIndex: =7
+
+    TextInput5 As text:
+        Default: ="Taking a walk with a pet"
+        Height: =113
+        Size: =21
+        Width: =533
+        X: =40
+        Y: =216
+        ZIndex: =8
+
+    TextInput6 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Read a book you like "
+        Height: =97
+        Size: =21
+        Width: =394
+        X: =53
+        Y: =380
+        ZIndex: =9
+
+    TextInput7 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Draw things that are around you"
+        Height: =86
+        Size: =21
+        Width: =442
+        X: =47
+        Y: =559
+        ZIndex: =10
+
+    TextInput8 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Do 5 minutes of physical activity"
+        Height: =98
+        Size: =21
+        Width: =442
+        X: =53
+        Y: =723
+        ZIndex: =11
+
+    TextInput9 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Do Yoga"
+        Height: =54
+        Size: =21
+        Width: =236
+        X: =47
+        Y: =903
+        ZIndex: =12
+
+    Image3 As image:
+        Height: =289
+        Image: =jm
+        Width: =92
+        X: =477
+        Y: =452
+        ZIndex: =13
+
+    Image8 As image:
+        Height: =113
+        Image: =mm
+        Width: =109
+        X: =460
+        Y: =377
+        ZIndex: =14
+
+    Image12 As image:
+        Height: =117
+        Image: =ss
+        Width: =101
+        X: =464
+        Y: =212
+        ZIndex: =15
+
+    Image13 As image:
+        Height: =94
+        Image: =ssss
+        Width: =125
+        X: =460
+        Y: =728
+        ZIndex: =16
+
+    Image14 As image:
+        Height: =99
+        Image: =nn
+        Width: =260
+        X: =374
+        Y: =896
+        ZIndex: =17
+
+    Icon6 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
+        X: =47
+        Y: =15
+        ZIndex: =18
+
