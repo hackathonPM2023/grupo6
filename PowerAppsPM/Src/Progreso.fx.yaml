@@ -36,3 +36,11 @@ Progreso As screen:
         Y: =103
         ZIndex: =4
 
+    Image17 As image:
+        Height: =566
+        Image: ='images-removebg-preview'
+        Width: =501
+        X: =80
+        Y: =383
+        ZIndex: =5
+
