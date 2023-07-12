@@ -128,7 +128,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "es-ES"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "Logo",
@@ -137,6 +137,8 @@
     "Registro",
     "Cargando",
     "menú",
-    "Focus time"
+    "Focus time",
+    "Mi Actividad",
+    "Progreso"
   ]
 }
