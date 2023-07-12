@@ -1,9 +1,8 @@
 "'Mi Actividad' As screen":
-    Fill: =RGBA(0, 121, 187, 1)
+    Fill: =RGBA(255, 255, 255, 1)
 
     Button7 As button:
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 16, 96, 1)
         Font: =Font.'Lato Light'
         Height: =113
         OnSelect: =Navigate(Progreso,ScreenTransition.Fade)
@@ -18,38 +17,46 @@
         Y: =910
         ZIndex: =1
 
-    Image3 As image:
-        Height: =578
-        Image: ='Tiempo-de-uso'
-        ImagePosition: =ImagePosition.Fill
-        Width: =607
-        X: =16
-        Y: =234
-        ZIndex: =3
-
-    Rectangle3 As rectangle:
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =94
-        Width: =494
-        X: =39
-        Y: =50
-        ZIndex: =6
-
     Label6 As label:
+        Color: =RGBA(0, 16, 96, 1)
         Font: =Font.Georgia
         Height: =92
         Size: =30
         Text: ="Lo Estas ¡Logrando!"
         Width: =383
         X: =129
-        Y: =50
+        Y: =86
         ZIndex: =7
 
     Image3_2 As image:
         Height: =69
         Image: ='813885'
         Width: =90
-        X: =39
-        Y: =58
+        X: =40
+        Y: =86
         ZIndex: =8
+
+    Icon4 As icon.ArrowLeft:
+        Color: =RGBA(0, 16, 96, 1)
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
+        X: =16
+        Y: =22
+        ZIndex: =9
+
+    Rectangle4 As rectangle:
+        Fill: =RGBA(0, 16, 96, 1)
+        Height: =582
+        Width: =590
+        X: =25
+        Y: =207
+        ZIndex: =10
+
+    Image12 As image:
+        Height: =496
+        Image: ='Tiempo-de-uso'
+        Width: =526
+        X: =57
+        Y: =250
+        ZIndex: =11
 
