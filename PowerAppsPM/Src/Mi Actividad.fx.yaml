@@ -11,7 +11,7 @@
         RadiusTopLeft: =30
         RadiusTopRight: =30
         Size: =40
-        Text: ="Mi Progreso"
+        Text: ="My Progress"
         Width: =360
         X: =150
         Y: =910
@@ -22,7 +22,7 @@
         Font: =Font.Georgia
         Height: =92
         Size: =30
-        Text: ="Lo Estas ¡Logrando!"
+        Text: ="You're Doing It!"
         Width: =383
         X: =129
         Y: =86

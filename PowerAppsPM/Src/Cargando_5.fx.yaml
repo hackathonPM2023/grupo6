@@ -1,0 +1,34 @@
+Cargando_5 As screen:
+    Fill: =RGBA(0, 16, 96, 1)
+
+    Image3_8 As image:
+        Height: =499
+        Image: ='Foquito-removebg-preview'
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
+        Width: =464
+        X: =73
+        Y: =210
+        ZIndex: =2
+
+    Image2_6 As image:
+        Height: =499
+        Image: ='FOco-removebg-preview (1)'
+        OnSelect: =Navigate(menú,ScreenTransition.Fade)
+        Width: =464
+        X: =80
+        Y: =210
+        ZIndex: =3
+
+    Label4_5 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Semibold
+        Height: =130
+        OnSelect: =Navigate('Focus time',ScreenTransition.Fade)
+        Size: =75
+        Text: ="Loading..."
+        Width: =450
+        X: =94
+        Y: =709
+        ZIndex: =4
+

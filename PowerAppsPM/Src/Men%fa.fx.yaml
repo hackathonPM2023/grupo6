@@ -36,7 +36,7 @@ menú As screen:
 
     Button3 As button:
         Height: =100
-        OnSelect: =Navigate('Mi Actividad',ScreenTransition.Fade)
+        OnSelect: =Navigate(Cargando_2,ScreenTransition.Fade)
         Size: =24
         Text: ="My activity"
         Width: =350
@@ -46,7 +46,7 @@ menú As screen:
 
     Button3_1 As button:
         Height: =100
-        OnSelect: =Navigate('Focus time',ScreenTransition.Fade)
+        OnSelect: =Navigate(Cargando_1,ScreenTransition.Fade)
         Size: =24
         Text: ="Focus Time"
         Width: =350
@@ -56,6 +56,7 @@ menú As screen:
 
     Button3_5 As button:
         Height: =100
+        OnSelect: =Navigate(Cargando_4,ScreenTransition.Fade)
         Size: =24
         Text: ="Disconneted"
         Width: =350
@@ -65,8 +66,9 @@ menú As screen:
 
     Button3_6 As button:
         Height: =100
+        OnSelect: =Navigate(Cargando_5,ScreenTransition.Fade)
         Size: =24
-        Text: ="recommendations"
+        Text: ="Recommendations"
         Width: =350
         X: =150
         Y: =755
