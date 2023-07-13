@@ -14,8 +14,10 @@ Logo As screen:
         ZIndex: =4
 
     Image2 As image:
+        Fill: =RGBA(255, 255, 255, 1)
         Height: =560
         Image: ='Captura de pantalla (6)'
+        ImagePosition: =ImagePosition.Fill
         OnSelect: =Navigate(Inicio,ScreenTransition.Fade)
         Width: =520
         X: =56
