@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "a98b978e-4077-4fa5-8d84-06056699abce",
-    "Id": "e6ef52e9-b1a9-4bc3-a834-8067a37b7ee2",
+    "Id": "b2a864d4-2625-401c-8d66-81edc1c350ac",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Disconneted",
+    "Name": "Disconneted.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
