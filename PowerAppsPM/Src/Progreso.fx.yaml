@@ -11,8 +11,8 @@ Progreso As screen:
 
     Rectangle5 As rectangle:
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =110
-        Width: =455
+        Height: =116
+        Width: =488
         X: =40
         Y: =94
         ZIndex: =2
@@ -22,18 +22,18 @@ Progreso As screen:
         Font: =Font.Georgia
         Height: =92
         Size: =30
-        Text: ="Tu planta ya tiene hojas y tallo."
+        Text: ="Your plant already has leaves and stem."
         Width: =383
-        X: =142
-        Y: =103
+        X: =139
+        Y: =106
         ZIndex: =3
 
     Image3_3 As image:
         Height: =69
         Image: ='813885'
         Width: =90
-        X: =40
-        Y: =103
+        X: =49
+        Y: =117
         ZIndex: =4
 
     Image17 As image:
