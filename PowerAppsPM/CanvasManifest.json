@@ -114,7 +114,7 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Disconneted.msapp",
+    "Name": "Disconneted",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -137,10 +137,10 @@
     "Registro",
     "Cargando",
     "menú",
-    "Focus time",
     "Mi Actividad",
     "Progreso",
-    "Disconnected",
-    "Recomendations"
+    "Focus time",
+    "Recomendations",
+    "Disconnected"
   ]
 }
