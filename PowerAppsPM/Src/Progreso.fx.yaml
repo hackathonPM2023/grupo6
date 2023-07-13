@@ -22,7 +22,7 @@ Progreso As screen:
         Font: =Font.Georgia
         Height: =92
         Size: =30
-        Text: ="Tu planta ya tiene hojas y tallo"
+        Text: ="Tu planta ya tiene hojas y tallo."
         Width: =383
         X: =142
         Y: =103
